@@ -1,8 +1,197 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+
     <color name="colorImagePlaceholder">#D3D3D3</color>
     <color name="transparentBlack">#80000000</color>
+
+    <color name="colorPrimary">#1847D1</color>
+    <color name="colorPrimaryDark">#00219f</color>
+    <color name="colorAccent">#6572ff</color>
+    <color name="textColorBlue">#0b91f4</color>
+    <color name="textColorBlack80">#515151</color>
+    <color name="blueBackground">#0076FF</color>
+    <color name="orangeButtonBackground">#DA2486</color>
+    <color name="iconBackgroundTints">#002040</color>
+    <color name="darkBlue">#2058BB</color>
+    <color name="blackBackgroundColor">#002040</color>
+    <color name="whiteColor">#FFFFFF</color>
+    <color name="blueTextColor">#0076FF</color>
+    <color name="redTextColor">#FB2525</color>
+    <color name="blackTextColor">#3B4354</color>
+    <color name="roundyGrayBackgroundColor">#DDE4ED</color>
+    <color name="grayDrakTextColor">#728496</color>
+    <color name="colorTransparent">#00FFFFFF</color>
+    <color name="halfWhiteColor">#80FFFFFF</color>
+    <color name="fortyWhiteColor">#66FFFFFF</color>
+
+    <color name="gray">#898989</color>
+
+
+    <color name="text_selected">#b0003a</color>
+    <color name="text_focused">#E91E63</color>
+    <color name="text_default">#F8BBD0</color>
+    <color name="text_hint_default">#BDBDBD</color>
+    <color name="line_selected">#E91E63</color>
+    <color name="line_focused">#3F51B5</color>
+    <color name="line_default">#C5CAE9</color>
+
+    <color name="blueMain">#3D85F7</color>
+    <color name="blue_partners">#007AFF</color>
+    <color name="lightGray">#ECEDEF</color>
+
+    <color name="button_background">#ECEDEF</color>
+    <color name="dashed_line">#E0E0E0</color>
+
+    <!-- New design color code-->
+    <color name="entryScreenStatusBarColor">#1A3D85F7</color>
+    <color name="blueGrayColor">#3B4354</color>
+    <color name="blackColor">#2B2D31</color>
+    <color name="transparentBlackColor">#1A000000</color>
+    <color name="redColor">#E03434</color>
+    <color name="gradientGrayColor">#43557C</color>
+    <color name="blockImageColor">#A4ADC0</color>
+    <color name="blockTextColor">#959698</color>
+    <color name="lighterGrayColor">#E9E9E9</color>
+    <color name="grayColor">#A1A5AF</color>
+    <color name="grayLight">#898989</color>
+    <color name="grayLight50">#C4C4CC</color>
+    <color name="lightestGrayColor">#F9F9F9</color>
+    <color name="lightGrayColor">#ECEDEF</color>
+    <color name="darkGrayColor">#828282</color>
+    <color name="blueMainColor">#3D85F7</color>
+    <color name="gradientBlueStart">#488BFF</color>
+    <color name="gradientBlueFinish">#0065FF</color>
+    <color name="greenColor">#27AE60</color>
+    <color name="redColorError">#EE3131</color>
+    <color name="backgroundGrayColor">#F2F2F2</color>
+    <color name="unSelectedTabColor">#BBC2D0</color>
+    <color name="redAmountColor">#EE3131</color>
+    <color name="greenAmountColor">#27AE60</color>
+    <color name="borderColor">#C4C4C4</color>
+    <color name="hintBorderColor">#66C4C4C4</color>
+    <color name="scheduleBackground">#33AAAAAA</color>
+    <color name="loanInfoChildBackground">#F5F5F5</color>
+    <color name="colorDepositBackground">#86C440</color>
+    <color name="colorSeekBarBorder">#F0F0F0</color>
+    <color name="colorSeekBarBorderHalf">#80F0F0F0</color>
+    <color name="colorSuccessStart">#EFEFFF</color>
+    <color name="colorTextSecondary">#333333</color>
+    <color name="colorTamSchedulerHeader">#99FFFFFF</color>
+    <color name="colorTamSchedulerDivider">#33FFFFFF</color>
+    <color name="colorBottomBarItemInActive">#161616</color>
+    <color name="colorTamCardPartnerBackground">#F5F5F5</color>
+    <color name="grayColor30">#00A1A5AF</color>
+    <color name="grayColor40">#66000000</color>
+    <color name="grayColor10">#1A000000</color>
+    <color name="grayColor15">#DEE9ED</color>
+
+    <color name="cardDetailGrayColor">#898989</color>
+    <color name="cardDetailBlueColor">#2058BB</color>
+    <color name="cardDetailBackgroundGrayColor">#F5F5FA</color>
+    <color name="cardOrderDisabledColor">#C4C4CC</color>
+    <color name="progressBarProgressColor">#3B8DD4</color>
+    <color name="selectCardErrorColor">#FF0000</color>
+
+    <color name="bgAzercellServiceSubscription">#ECEEF8</color>
+    <color name="anipayGrayColor30">#4DA1A5AF</color>
+    <color name="colorIpsOnboardingWave">#008EDB</color>
+    <color name="colorRadioButton">#007AFF</color>
+
+
+    <color name="colorTamCardPartnerMount3">#93C94A</color>
+    <color name="colorTamCardPartnerMount6">#47C0C0</color>
+    <color name="colorTamCardPartnerMount12">#3D85F7</color>
+    <color name="colorTamCardPartnerMount18">#42A3B9</color>
+    <color name="colorTamCardPartnerMount24">#72A8FF</color>
+
+    <color name="colorAzercellBonus">#552A7E</color>
+    <color name="colorAzercellBonusText">@color/halfWhiteColor</color>
+
+    <color name="ips_alias_suspended">#FFE49A</color>
+    <color name="ips_alias_inactive">#D6D6D6</color>
+    <color name="colorMapBottomSheet">#D5D7DC</color>
+    <color name="colorImageTakedBackground">#333D85F7</color>
+
+    <color name="colorWhiteSmoke">#F8F8F8</color>
+
+    <color name="primaryBlue">#2058BB</color>
+    <!-- New design color code-->
+
+    <color name="colorMercury">#E5E5E5</color>
+    <color name="white_opacity_10">#1AFFFFFF</color>
+    <color name="white_opacity_20">#33FFFFFF</color>
+    <color name="white_opacity_50">#80FFFFFF</color>
+    <color name="black_opacity_40">#66000000</color>
+    <color name="black_opacity_60">#979797</color>
+    <color name="black_opacity_80">#CC515151</color>
+    <color name="loan_edittext">#F5F5F6</color>
+    <color name="text_color_black">#515151</color>
+
+    <color name="colorReceiptCardMenuBg">#387dea</color>
+    <color name="colorReceiptDetailHeaderBG">#F5F5F5</color>
+    <color name="edvStatusWaiting">#E4AF24</color>
+    <color name="edvStatusRefunded">#27AE60</color>
+    <color name="edvStatusCanceled">#EE3131</color>
+    <color name="edvFABButton">#2CC26D</color>
+    <color name="removeButtonBlue">#007AFF</color>
+    <color name="grayOpacity">#66000000</color>
+    <color name="colorCurrencyWidgetPrimary">#2058BB</color>
+    <color name="colorCurrencyWidgetSecondary">#2F72C9</color>
+    <color name="qrReadBackground">#4a4a4a</color>
+    <color name="edvDashboardWaiting">#F0B622</color>
+    <color name="edvDashboardRefunded">#27AE60</color>
+    <color name="edvDashboardCanceled">#F14A4A</color>
+    <color name="grayBackground">#E6E6EA</color>
+    <color name="successPinSet">#008000</color>
+
+    <color name="tamCardApplicationProcessing">#7BB77B</color>
+    <color name="tamCardApplicationExpired">#8E9AD7</color>
+    <color name="tamCardApplicationRejected">#EB7A98</color>
+    <color name="tamCardApplicationExecution">#FFBB33</color>
+
+    <color name="red">#ff0000</color>
+    <color name="blue">#0000FF</color>
+    <color name="green">#00FFFF</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="black">#000000</color>
+    <color name="magenta">#FF00FF</color>
+    <color name="snackbarOrange">#FFC966</color>
+
+    <array name="dotColors">
+        <item>@color/red</item>
+        <item>@color/blue</item>
+        <item>@color/green</item>
+        <item>@color/yellow</item>
+        <item>@color/black</item>
+        <item>@color/magenta</item>
+    </array>
+
+    <color name="white">#FFF</color>
+    <color name="colorBlue">#0076FF</color>
+    <color name="h1black">#323542</color>
+    <color name="editTextBottomHint">#BDBDBD</color>
+
+    <color name="line_normal">#A1A5AF</color>
+    <color name="line_active">#2B2D31</color>
+
+    <color name="colorTransparentNew">#59FFFFFF</color>
+    <color name="orangeIconColor">#F7C744</color>
+    <color name="colorBlackTransparent_80">#CC2B2D31</color>
+
+    <color name="darkBlue2">#415683</color>
+    <color name="disabledTextColor">#ACACAF</color>
+    <color name="progressIndicatorColor">#5289DA</color>
+
+    <string-array name="placeholders">
+        <item>#eeeeee</item>
+        <item>#e0e0e0</item>
+        <item>#aeaeae</item>
+        <item>#bdbdbd</item>
+        <item>#cfcfcf</item>
+        <item>#8d8d8d</item>
+        <item>#9e9e9e</item>
+        <item>#707070</item>
+        <item>#757575</item>
+        <item>#616161</item>
+    </string-array>
 </resources>
